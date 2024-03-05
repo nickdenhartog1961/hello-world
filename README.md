@@ -4,4 +4,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-Now we add a new line in Github.
+It now includes steps for Github.
